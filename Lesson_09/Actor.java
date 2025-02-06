@@ -1,3 +1,4 @@
+package Lesson_09;
 public abstract class Actor implements ActorBehavior{
     protected boolean isTakeOrder;
     protected boolean isMakeOrder;

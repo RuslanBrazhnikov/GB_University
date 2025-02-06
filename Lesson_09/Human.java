@@ -1,3 +1,4 @@
+package Lesson_09;
 public class Human extends Actor {
     public Human(String name) {
         super(name);
